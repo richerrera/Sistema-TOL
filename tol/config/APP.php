@@ -98,6 +98,6 @@
 	*/
 
 	/*----------  Paramtros de Pagadito  ----------*/
-	define("UID", "aa37f7fa2af51bdea10d7620250fbd99");
-	define("WSK", "d5808503d43920413af7e4a7a5c8e8eb");
+	define("UID", "Solicitar_parametros");
+	define("WSK", "Solicitar_parametros");
 	define("SANDBOX", true);
